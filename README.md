@@ -1,2 +1,2 @@
 # python-samples
-Python sample programs
+Simple programs to learn Python
